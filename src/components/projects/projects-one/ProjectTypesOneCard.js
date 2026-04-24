@@ -22,14 +22,20 @@ const ProjectTypesOneCard = ({data, extraClass}) => {
                   <div className="project-hoverlay">
                       <div className="project-text">
 
-                          <a onClick={() => setToggler(!toggler)}
-                             style={{
-                                 cursor:'pointer',
-                                 marginRight:'5px'
-                             }}
+                          <button
+                              type="button"
+                              onClick={() => setToggler(!toggler)}
+                              style={{
+                                  cursor: 'pointer',
+                                  marginRight: '5px',
+                                  background: 'transparent',
+                                  border: 0,
+                                  padding: 0
+                              }}
+                              aria-label="Expand project image"
                           >
                               <i className="fa fa-expand" />
-                          </a>
+                          </button>
                           <Link to={`/project-details/${data.id}`}>
                               <i className="fa fa-link" />
                           </Link>

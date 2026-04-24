@@ -26,27 +26,27 @@ const Footer = () => {
                                     <div className="footer-social-profile">
                                         <ul>
                                             <li>
-                                                <a href="">
+                                                <a href="/#" aria-label="Facebook">
                                                     <i className="fa fa-facebook" />
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="">
+                                                <a href="/#" aria-label="Twitter">
                                                     <i className="fa fa-twitter" />
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="">
+                                                <a href="/#" aria-label="Pinterest">
                                                     <i className="fa fa-pinterest" />
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="">
+                                                <a href="/#" aria-label="Google Plus">
                                                     <i className="fa fa-google-plus" />
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="">
+                                                <a href="/#" aria-label="Vimeo">
                                                     <i className="fa fa-vimeo" />
                                                 </a>
                                             </li>
@@ -74,22 +74,22 @@ const Footer = () => {
                                     <h2>Support links</h2>
                                     <ul>
                                         <li>
-                                            <a href="#">support link</a>
+                                            <a href="/#">support link</a>
                                         </li>
                                         <li>
-                                            <a href="#">faq &amp; help center</a>
+                                            <a href="/#">faq &amp; help center</a>
                                         </li>
                                         <li>
-                                            <a href="#">about us</a>
+                                            <a href="/#">about us</a>
                                         </li>
                                         <li>
-                                            <a href="#">Create Account</a>
+                                            <a href="/#">Create Account</a>
                                         </li>
                                         <li>
-                                            <a href="#">service and help</a>
+                                            <a href="/#">service and help</a>
                                         </li>
                                         <li>
-                                            <a href="#">Contact Us</a>
+                                            <a href="/#">Contact Us</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -154,11 +154,11 @@ const Footer = () => {
                             <div className="col-md-12">
                                 <div className="copy-right">
                                     <p>
-                                        © Copyright 2018{" "}
+                                        © Copyright 2026{" "}
                                         <span>
-                  <a href="#">themeearth,</a>
+                  <a href="/#">themeearth,</a>
                 </span>{" "}
-                                        Designed by:<span> David Max</span>
+                                        Designed by:<span> <a href="https://globaldigitalcare.pk">Global Digital Care</a> </span>
                                     </p>
                                 </div>
                             </div>

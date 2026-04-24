@@ -60,22 +60,22 @@ const BlogDetails = () => {
                                                 <span>share</span>
                                                 <ul>
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="/#" aria-label="Share on Facebook">
                                                             <i className="fa fa-facebook" />
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="/#" aria-label="Share on Twitter">
                                                             <i className="fa fa-twitter" />
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="/#" aria-label="Share on LinkedIn">
                                                             <i className="fa fa-linkedin" />
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="/#" aria-label="Share on Google Plus">
                                                             <i className="fa fa-google-plus" />
                                                         </a>
                                                     </li>
@@ -94,7 +94,7 @@ const BlogDetails = () => {
                                                     <h3 className="comment-author">
                                                         alex
                                                         <span className="replay-button">
-                        <a href="#">reply</a>
+                        <a href="/#">reply</a>
                       </span>
                                                     </h3>
                                                     <h4 className="comment-time">12 h ago</h4>
@@ -105,14 +105,14 @@ const BlogDetails = () => {
                                                         venenatis
                                                     </p>
                                                     <div className="media mt-3">
-                                                        <a className="d-flex pr-3" href="#">
+                                                        <a className="d-flex pr-3" href="/#">
                                                             <img src={`/images/commentar_2.jpg`} alt="Avatar" />
                                                         </a>
                                                         <div className="media-body">
                                                             <h3 className="comment-author">
                                                                 david
                                                                 <span className="replay-button">
-                            <a href="#">reply</a>
+                            <a href="/#">reply</a>
                           </span>
                                                             </h3>
                                                             <h4 className="comment-time">11 h ago</h4>

@@ -47,22 +47,22 @@ const ServiceDetailsTwo = () => {
                                                 <span>share</span>
                                                 <ul>
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="/#" aria-label="Share on Facebook">
                                                             <i className="fa fa-facebook" />
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="/#" aria-label="Share on Twitter">
                                                             <i className="fa fa-twitter" />
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="/#" aria-label="Share on LinkedIn">
                                                             <i className="fa fa-linkedin" />
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="/#" aria-label="Share on Google Plus">
                                                             <i className="fa fa-google-plus" />
                                                         </a>
                                                     </li>

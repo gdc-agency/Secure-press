@@ -7,31 +7,31 @@ const TagWidgets = () => {
                 <h1>keywoad</h1>
                 <ul>
                     <li>
-                        <a href="#">Office </a>
+                        <a href="/#">Office </a>
                     </li>
                     <li>
-                        <a href="#">CCTV</a>
+                        <a href="/#">CCTV</a>
                     </li>
                     <li>
-                        <a href="#">Management</a>
+                        <a href="/#">Management</a>
                     </li>
                     <li>
-                        <a href="#">Service</a>
+                        <a href="/#">Service</a>
                     </li>
                     <li>
-                        <a href="#">Security</a>
+                        <a href="/#">Security</a>
                     </li>
                     <li>
-                        <a href="#">Bank</a>
+                        <a href="/#">Bank</a>
                     </li>
                     <li>
-                        <a href="#">Planing</a>
+                        <a href="/#">Planing</a>
                     </li>
                     <li>
-                        <a href="#">House</a>
+                        <a href="/#">House</a>
                     </li>
                     <li>
-                        <a href="#">Parking</a>
+                        <a href="/#">Parking</a>
                     </li>
                 </ul>
             </div>

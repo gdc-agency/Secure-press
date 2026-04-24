@@ -20,11 +20,11 @@ const Topbar = () => {
                             <div className="hd-rgt">
                                 <span className="follow-title">Follow Us</span>
                                 <ul>
-                                    <li><a href="#"><i className="fa fa-facebook"/></a></li>
-                                    <li><a href="#"><i className="fa fa-twitter"/></a></li>
-                                    <li><a href="#"><i className="fa fa-pinterest"/></a></li>
-                                    <li><a href="#"><i className="fa fa-google-plus"/></a></li>
-                                    <li><a href="#"><i className="fa fa-vimeo"/></a></li>
+                                    <li><a href="/#" aria-label="Facebook"><i className="fa fa-facebook"/></a></li>
+                                    <li><a href="/#" aria-label="Twitter"><i className="fa fa-twitter"/></a></li>
+                                    <li><a href="/#" aria-label="Pinterest"><i className="fa fa-pinterest"/></a></li>
+                                    <li><a href="/#" aria-label="Google Plus"><i className="fa fa-google-plus"/></a></li>
+                                    <li><a href="/#" aria-label="Vimeo"><i className="fa fa-vimeo"/></a></li>
                                 </ul>
                             </div>
                         </div>

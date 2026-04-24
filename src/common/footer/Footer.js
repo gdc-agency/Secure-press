@@ -158,7 +158,7 @@ const Footer = () => {
                                         <span>
                   <a href="/#">themeearth,</a>
                 </span>{" "}
-                                        Designed by:<span> <a href="https://globaldigitalcare.pk">Global Digital Care</a> </span>
+                                        Designed by:<span> <a href="https://globaldigitalcare.pk">Global Digital Care.</a> </span>
                                     </p>
                                 </div>
                             </div>

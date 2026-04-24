@@ -1,0 +1,99 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "text": "Home",
+      "link": "/",
+      "dropdown": []
+    },
+    {
+      "id": 2,
+      "text": "projects",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 2.1,
+          "text": "project 3 column",
+          "link": "/projects-1"
+        },
+        {
+          "id": 2.2,
+          "text": "project 4 column",
+          "link": "/projects-2"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Service",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 3.1,
+          "text": "Service 1",
+          "link": "/services-1"
+        },
+        {
+          "id": 3.2,
+          "text": "services 2",
+          "link": "/services-2"
+        },
+        {
+          "id": 3.3,
+          "text": "Service details 1",
+          "link": "/service-details/1"
+        },
+        {
+          "id": 3.4,
+          "text": "Service details 2",
+          "link": "/service-details-two/2"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "About",
+      "link": "/about",
+      "dropdown": []
+    },
+    {
+      "id": 5,
+      "text": "Employees",
+      "link": "/employees",
+      "dropdown": []
+    },
+    {
+      "id": 6,
+      "text": "Blog",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 6.1,
+          "text": "Blog Page 1",
+          "link": "/blogs-1"
+        },
+        {
+          "id": 6.2,
+          "text": "Blog Page 2",
+          "link": "/blogs-2"
+        },
+        {
+          "id": 6.3,
+          "text": "Blog With sidebar",
+          "link": "/blog-with-sidebar"
+        },
+        {
+          "id": 6.4,
+          "text": "Blog Details",
+          "link": "/blog-details/1"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Contact us",
+      "link": "/contact-us",
+      "dropdown": []
+    }
+  ]
+}

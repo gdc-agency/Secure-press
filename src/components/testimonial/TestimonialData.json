@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "content": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec ac nec.Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec ac nec.",
+    "name": "David Max",
+    "image": "testimonial1.jpg",
+    "designation": "Ceo & Founder"
+  },
+  {
+    "id": 2,
+    "content": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec ac nec.Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec ac nec.",
+    "name": "David Max",
+    "image": "testimonial2.jpg",
+    "designation": "Ceo & Founder"
+  },
+  {
+    "id": 3,
+    "content": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec ac nec.Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec ac nec.",
+    "name": "David Max",
+    "image": "testimonial2.jpg",
+    "designation": "Ceo & Founder"
+  }
+]

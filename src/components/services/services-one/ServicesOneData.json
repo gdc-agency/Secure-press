@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "icon": "building.png",
+    "image": "service_details_1.jpg",
+    "title": "Office Security",
+    "excerpt": "Lorem ipsum dolor sit amet, luctus posuere semper felis consectetuer hendrerit, enim varius enim",
+    "details": "<p>Lorem ipsum dolor sit amet, accumsan et ad rhoncus in ridiculus risus, orci integer sed aliquam praesent, aliquam in vulputate metus. Pellentesque dignissim auctor nibh vel vestibulum, tempor sed id ut faucibus. Quam vulputate adipiscing. Mauris penatibus vestibulum nec nulla pharetra non, ac eget faucibus id turpis malesuada, urna eget, nam adipiscing, in et at turpis et porta.</p><p>Lorem ipsum dolor sit amet, accumsan et ad rhoncus in ridiculus risus, orci integer sed aliquam praesent, aliquam in vulputate metus. Pellentesque dignissim auctor nibh vel vestibulum, tempor sed id ut faucibus. Quam vulputate adipiscing. Mauris penatibus vestibulum nec nulla pharetra non, ac eget faucibus id turpis malesuada, urna eget, nam adipiscing.</p>",
+    "btnText": "Continue Reading"
+  },
+  {
+    "id": 2,
+    "title": "CCTV Security",
+    "icon": "surveillance.png",
+    "image": "service_details_1.jpg",
+    "excerpt": "Lorem ipsum dolor sit amet, luctus posuere semper felis consectetuer hendrerit, enim varius enim",
+    "details": "<p>Lorem ipsum dolor sit amet, accumsan et ad rhoncus in ridiculus risus, orci integer sed aliquam praesent, aliquam in vulputate metus. Pellentesque dignissim auctor nibh vel vestibulum, tempor sed id ut faucibus. Quam vulputate adipiscing. Mauris penatibus vestibulum nec nulla pharetra non, ac eget faucibus id turpis malesuada, urna eget, nam adipiscing, in et at turpis et porta.</p><p>Lorem ipsum dolor sit amet, accumsan et ad rhoncus in ridiculus risus, orci integer sed aliquam praesent, aliquam in vulputate metus. Pellentesque dignissim auctor nibh vel vestibulum, tempor sed id ut faucibus. Quam vulputate adipiscing. Mauris penatibus vestibulum nec nulla pharetra non, ac eget faucibus id turpis malesuada, urna eget, nam adipiscing.</p>",
+    "btnText": "Continue Reading"
+  },
+  {
+    "id": 3,
+    "title": "Home Security",
+    "icon": "resort.png",
+    "image": "service_details_1.jpg",
+    "excerpt": "Lorem ipsum dolor sit amet, luctus posuere semper felis consectetuer hendrerit, enim varius enim",
+    "details": "<p>Lorem ipsum dolor sit amet, accumsan et ad rhoncus in ridiculus risus, orci integer sed aliquam praesent, aliquam in vulputate metus. Pellentesque dignissim auctor nibh vel vestibulum, tempor sed id ut faucibus. Quam vulputate adipiscing. Mauris penatibus vestibulum nec nulla pharetra non, ac eget faucibus id turpis malesuada, urna eget, nam adipiscing, in et at turpis et porta.</p><p>Lorem ipsum dolor sit amet, accumsan et ad rhoncus in ridiculus risus, orci integer sed aliquam praesent, aliquam in vulputate metus. Pellentesque dignissim auctor nibh vel vestibulum, tempor sed id ut faucibus. Quam vulputate adipiscing. Mauris penatibus vestibulum nec nulla pharetra non, ac eget faucibus id turpis malesuada, urna eget, nam adipiscing.</p>",
+    "btnText": "Continue Reading"
+  },
+  {
+    "id": 4,
+    "title": "Bank Security",
+    "icon": "dollar-coins.png",
+    "image": "service_details_1.jpg",
+    "excerpt": "Lorem ipsum dolor sit amet, luctus posuere semper felis consectetuer hendrerit, enim varius enim",
+    "details": "<p>Lorem ipsum dolor sit amet, accumsan et ad rhoncus in ridiculus risus, orci integer sed aliquam praesent, aliquam in vulputate metus. Pellentesque dignissim auctor nibh vel vestibulum, tempor sed id ut faucibus. Quam vulputate adipiscing. Mauris penatibus vestibulum nec nulla pharetra non, ac eget faucibus id turpis malesuada, urna eget, nam adipiscing, in et at turpis et porta.</p><p>Lorem ipsum dolor sit amet, accumsan et ad rhoncus in ridiculus risus, orci integer sed aliquam praesent, aliquam in vulputate metus. Pellentesque dignissim auctor nibh vel vestibulum, tempor sed id ut faucibus. Quam vulputate adipiscing. Mauris penatibus vestibulum nec nulla pharetra non, ac eget faucibus id turpis malesuada, urna eget, nam adipiscing.</p>",
+    "btnText": "Continue Reading"
+  },
+  {
+    "id": 5,
+    "title": "Bank Security",
+    "icon": "parking.png",
+    "image": "service_details_1.jpg",
+    "excerpt": "Lorem ipsum dolor sit amet, luctus posuere semper felis consectetuer hendrerit, enim varius enim",
+    "details": "<p>Lorem ipsum dolor sit amet, accumsan et ad rhoncus in ridiculus risus, orci integer sed aliquam praesent, aliquam in vulputate metus. Pellentesque dignissim auctor nibh vel vestibulum, tempor sed id ut faucibus. Quam vulputate adipiscing. Mauris penatibus vestibulum nec nulla pharetra non, ac eget faucibus id turpis malesuada, urna eget, nam adipiscing, in et at turpis et porta.</p><p>Lorem ipsum dolor sit amet, accumsan et ad rhoncus in ridiculus risus, orci integer sed aliquam praesent, aliquam in vulputate metus. Pellentesque dignissim auctor nibh vel vestibulum, tempor sed id ut faucibus. Quam vulputate adipiscing. Mauris penatibus vestibulum nec nulla pharetra non, ac eget faucibus id turpis malesuada, urna eget, nam adipiscing.</p>",
+    "btnText": "Continue Reading"
+  },
+  {
+    "id": 6,
+    "title": "Man Security",
+    "icon": "runer-silhouette-running-fast.png",
+    "image": "service_details_1.jpg",
+    "excerpt": "Lorem ipsum dolor sit amet, luctus posuere semper felis consectetuer hendrerit, enim varius enim",
+    "details": "<p>Lorem ipsum dolor sit amet, accumsan et ad rhoncus in ridiculus risus, orci integer sed aliquam praesent, aliquam in vulputate metus. Pellentesque dignissim auctor nibh vel vestibulum, tempor sed id ut faucibus. Quam vulputate adipiscing. Mauris penatibus vestibulum nec nulla pharetra non, ac eget faucibus id turpis malesuada, urna eget, nam adipiscing, in et at turpis et porta.</p><p>Lorem ipsum dolor sit amet, accumsan et ad rhoncus in ridiculus risus, orci integer sed aliquam praesent, aliquam in vulputate metus. Pellentesque dignissim auctor nibh vel vestibulum, tempor sed id ut faucibus. Quam vulputate adipiscing. Mauris penatibus vestibulum nec nulla pharetra non, ac eget faucibus id turpis malesuada, urna eget, nam adipiscing.</p>",
+    "btnText": "Continue Reading"
+  }
+]

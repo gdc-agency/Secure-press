@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "customer.png",
+    "title": "24/7 Support",
+    "desc":  "Simply dummy text of the printing andrety esetting industry.Lorem ipsum dolor sit amet, ligula magna at etiam."
+  },
+  {
+    "id": 2,
+    "icon": "employee.png",
+    "title": "Expert Employees",
+    "desc":  "Simply dummy text of the printing andrety esetting industry.Lorem ipsum dolor sit amet, ligula magna at etiam."
+  },
+  {
+    "id": 3,
+    "icon": "locked.png",
+    "title": "Verified Service",
+    "desc":  "Simply dummy text of the printing andrety esetting industry.Lorem ipsum dolor sit amet, ligula magna at etiam."
+  },
+  {
+    "id": 4,
+    "icon": "lock.png",
+    "title": "Secured Service",
+    "desc":  "Simply dummy text of the printing andrety esetting industry.Lorem ipsum dolor sit amet, ligula magna at etiam."
+  }
+]

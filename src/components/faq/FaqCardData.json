@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Can I help 24/7",
+        "icon": "question.png",
+        "content": "Lorem ipsum dolor sit amet, luctus posuere semper felis consectetuer hendrerit, enim varius enim, tellus tincidunt tellus est sed mattis, libero elit mi suscipit."
+    },
+    {
+        "id": 2,
+        "title": "Can I refund payment",
+        "icon": "question.png",
+        "content": "Lorem ipsum dolor sit amet, luctus posuere semper felis consectetuer hendrerit, enim varius enim, tellus tincidunt tellus est sed mattis, libero elit mi suscipit."
+    },
+    {
+        "id": 3,
+        "title": "How many year's experience",
+        "icon": "question.png",
+        "content": "Lorem ipsum dolor sit amet, luctus posuere semper felis consectetuer hendrerit, enim varius enim, tellus tincidunt tellus est sed mattis, libero elit mi suscipit."
+    }
+]

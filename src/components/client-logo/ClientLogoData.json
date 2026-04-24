@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "image": "patner1.png",
+    "title": "partner 1"
+  },
+  {
+    "id": 2,
+    "image": "patner2.png",
+    "title": "partner 2"
+  },
+  {
+    "id": 3,
+    "image": "patner3.png",
+    "title": "partner 3"
+  },
+  {
+    "id": 4,
+    "image": "patner4.png",
+    "title": "partner 4"
+  },
+  {
+    "id": 5,
+    "image": "patner2.png",
+    "title": "partner 2"
+  },
+  {
+    "id": 6,
+    "image": "patner3.png",
+    "title": "partner 3"
+  },
+  {
+    "id": 7,
+    "image": "patner4.png",
+    "title": "partner 4"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "image": "news1.jpg",
+    "title": "vestibulum dolor pellentesque commodo vel porttitor",
+    "details": "<p>Id detracto luptatum qui, ne mel alia facilis. Pri id mazim percipit, vis scripta veritus in, facete dissentiunt ad mei. Ex eum admodum democritum, cu per malis ancillae deterruisset. Eum ornatus minimum delicata in, mea at recusabo oportere.Sea inermis maiestatis adversarium ex, quaeque dolorum id eam. Debet omnes noster ei nam. Ex mei dolorum expetenda, ad prompta rationibus duo. Brute mandamus mediocrem eum ad, has alterum explicari definitiones no.</p><p>Ex ludus efficiendi mel, sed id esse latine verterem. Nam affert graece alienum at. Cetero neglegentur at duo, ut est augue falli quando. Sed eruditi accumsan inciderint et, at eam erat aliquam lobortis. Cu commune mediocritatem mei. Qui id altera laoreet gloriatur, case debet et sea, sed sumo vivendum cu. </p>",
+    "content": "Lorem ipsum dolor sit amet, vestibulum dolor pellentesque commodo vel porttitor, luctus ligula non neque cum, ullamcorper facilisis eleifend et, consectetuer ipsum pulvinar mauris. Arcu ornare elit tellus nullam, rhoncus nascetur cursus risus ut mollis, urna convallis donec eros proin mi vivamus, eu donec totam turpis sapien dictum. Tellus vitae ",
+    "btnText": "Continue Reading",
+    "date": "24 May 2017",
+    "author": "Admin",
+    "categories": "News"
+  },
+  {
+    "id": 2,
+    "image": "news2.jpg",
+    "title": "House Security for your apartment",
+    "details": "<p>Id detracto luptatum qui, ne mel alia facilis. Pri id mazim percipit, vis scripta veritus in, facete dissentiunt ad mei. Ex eum admodum democritum, cu per malis ancillae deterruisset. Eum ornatus minimum delicata in, mea at recusabo oportere.Sea inermis maiestatis adversarium ex, quaeque dolorum id eam. Debet omnes noster ei nam. Ex mei dolorum expetenda, ad prompta rationibus duo. Brute mandamus mediocrem eum ad, has alterum explicari definitiones no.</p><p>Ex ludus efficiendi mel, sed id esse latine verterem. Nam affert graece alienum at. Cetero neglegentur at duo, ut est augue falli quando. Sed eruditi accumsan inciderint et, at eam erat aliquam lobortis. Cu commune mediocritatem mei. Qui id altera laoreet gloriatur, case debet et sea, sed sumo vivendum cu. </p>",
+    "content": "Lorem ipsum dolor sit amet, vestibulum dolor pellentesque commodo vel porttitor, luctus ligula non neque cum, ullamcorper facilisis eleifend et, consectetuer ipsum pulvinar mauris. Arcu ornare elit tellus nullam, rhoncus nascetur cursus risus ut mollis, urna convallis donec eros proin mi vivamus, eu donec totam turpis sapien dictum. Tellus vitae ",
+    "btnText": "Continue Reading",
+    "date": "24 May 2017",
+    "author": "Admin",
+    "categories": "News"
+  },
+  {
+    "id": 3,
+    "image": "news3.jpg",
+    "title": "House Security for your appartment",
+    "details": "<p>Id detracto luptatum qui, ne mel alia facilis. Pri id mazim percipit, vis scripta veritus in, facete dissentiunt ad mei. Ex eum admodum democritum, cu per malis ancillae deterruisset. Eum ornatus minimum delicata in, mea at recusabo oportere.Sea inermis maiestatis adversarium ex, quaeque dolorum id eam. Debet omnes noster ei nam. Ex mei dolorum expetenda, ad prompta rationibus duo. Brute mandamus mediocrem eum ad, has alterum explicari definitiones no.</p><p>Ex ludus efficiendi mel, sed id esse latine verterem. Nam affert graece alienum at. Cetero neglegentur at duo, ut est augue falli quando. Sed eruditi accumsan inciderint et, at eam erat aliquam lobortis. Cu commune mediocritatem mei. Qui id altera laoreet gloriatur, case debet et sea, sed sumo vivendum cu. </p>",
+    "content": "Lorem ipsum dolor sit amet, vestibulum dolor pellentesque commodo vel porttitor, luctus ligula non neque cum, ullamcorper facilisis eleifend et, consectetuer ipsum pulvinar mauris. Arcu ornare elit tellus nullam, rhoncus nascetur cursus risus ut mollis, urna convallis donec eros proin mi vivamus, eu donec totam turpis sapien dictum. Tellus vitae ",
+    "btnText": "Continue Reading",
+    "date": "24 May 2017",
+    "author": "Admin",
+    "categories": "News"
+  },
+  {
+    "id": 4,
+    "image": "news1.jpg",
+    "title": "CCTV Security for your appartment",
+    "details": "<p>Id detracto luptatum qui, ne mel alia facilis. Pri id mazim percipit, vis scripta veritus in, facete dissentiunt ad mei. Ex eum admodum democritum, cu per malis ancillae deterruisset. Eum ornatus minimum delicata in, mea at recusabo oportere.Sea inermis maiestatis adversarium ex, quaeque dolorum id eam. Debet omnes noster ei nam. Ex mei dolorum expetenda, ad prompta rationibus duo. Brute mandamus mediocrem eum ad, has alterum explicari definitiones no.</p><p>Ex ludus efficiendi mel, sed id esse latine verterem. Nam affert graece alienum at. Cetero neglegentur at duo, ut est augue falli quando. Sed eruditi accumsan inciderint et, at eam erat aliquam lobortis. Cu commune mediocritatem mei. Qui id altera laoreet gloriatur, case debet et sea, sed sumo vivendum cu. </p>",
+    "content": "Lorem ipsum dolor sit amet, vestibulum dolor pellentesque commodo vel porttitor, luctus ligula non neque cum, ullamcorper facilisis eleifend et, consectetuer ipsum pulvinar mauris. Arcu ornare elit tellus nullam, rhoncus nascetur cursus risus ut mollis, urna convallis donec eros proin mi vivamus, eu donec totam turpis sapien dictum. Tellus vitae ",
+    "btnText": "Continue Reading",
+    "date": "24 May 2017",
+    "author": "Admin",
+    "categories": "News"
+  }
+]

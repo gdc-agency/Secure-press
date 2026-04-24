@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "slide1.jpg",
+    "title": "Grow Up your business more <span> secure</span>",
+    "content": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec ac nec. Nam vel eu amet, nisl imperdiet nec ad morbi, sodales ipsum, consequat purus vitae integer maecenas.",
+    "btnTextOne": "CONTACT US",
+    "btnLinkOne": "/",
+    "btnTextTwo": "READ MORE",
+    "btnLinkTwo": "/"
+  },
+  {
+    "id": 2,
+    "image": "slide2.jpg",
+    "title": "We Provide <span>Verified & Secured</span> Service for company",
+    "content": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec ac nec. Nam vel eu amet, nisl imperdiet nec ad morbi, sodales ipsum, consequat purus vitae integer maecenas.",
+    "btnTextOne": "CONTACT US",
+    "btnLinkOne": "/",
+    "btnTextTwo": "READ MORE",
+    "btnLinkTwo": "/"
+  }
+
+]
